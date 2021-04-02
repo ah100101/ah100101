@@ -1,4 +1,3 @@
-### Hi there 👋
 <a href="https://github.com/ah100101">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ah100101&theme=onedark&layout=compact" />
 </a>
