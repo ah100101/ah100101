@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah100101)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ah100101&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ah100101&theme=onedark" />
 
 <!--
 **ah100101/ah100101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
